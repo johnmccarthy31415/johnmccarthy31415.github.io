@@ -1,0 +1,32 @@
+[
+  {
+    "path": "posts/2019-04-27-test-27-april-2019/",
+    "title": "test 27 April 2019",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2019-04-27",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-04-27T13:36:02+01:00"
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to My Blog",
+    "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2019-04-27",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-04-27T13:13:27+01:00"
+  }
+]

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>My Blog</title>
+    <link>http://johnmccarthy.updog.co/</link>
+    <atom:link href="http://johnmccarthy.updog.co/index.xml" rel="self" type="application/rss+xml"/>
+    <description>My Blog
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>test 27 April 2019</title>
+      <dc:creator>Nora Jones</dc:creator>
+      <link>http://johnmccarthy.updog.co/posts/2019-04-27-test-27-april-2019</link>
+      <description>A short description of the post.</description>
+      <guid>http://johnmccarthy.updog.co/posts/2019-04-27-test-27-april-2019</guid>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Welcome to My Blog</title>
+      <dc:creator>Nora Jones</dc:creator>
+      <link>http://johnmccarthy.updog.co/posts/welcome</link>
+      <description>Welcome to our new blog, My Blog. We hope you enjoy 
+reading what we have to say!</description>
+      <guid>http://johnmccarthy.updog.co/posts/welcome</guid>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
