@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-11-18-linear-regression/",
+    "title": "linear reserving triangle",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "John McCarthy",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-18",
+    "categories": [],
+    "preview": "posts/2019-11-18-linear-regression/linear-regression_files/figure-html5/pressure-1.png",
+    "last_modified": "2019-11-18T14:06:39+00:00"
+  },
+  {
     "path": "posts/2019-11-18-test-test/",
     "title": "test post november",
     "description": "A short description of the post.",

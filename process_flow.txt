@@ -1,6 +1,6 @@
 create post
 knit as distill article
 build website
-paste site directory to github subdirectory
+paste site directory to github subdirectory, exclude github.io folder when copying
 open github and enter a summary  name and publish
 go to netlify address to view: https://johnmccarthy27182.netlify.com/
